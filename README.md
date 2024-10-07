@@ -50,7 +50,7 @@
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"
     height="40"
     alt="java logo"
   />
@@ -74,7 +74,7 @@
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"
     height="40"
     alt="python logo"
   />
@@ -92,25 +92,25 @@
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
     height="40"
     alt="mysql logo"
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original-wordmark.svg"
     height="40"
     alt="mariadb logo"
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
     height="40"
     alt="mongodb logo"
   />
   <img width="12" />
   <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" 
     height="40"
     alt="firebase logo"
     />
@@ -120,6 +120,13 @@
     height="40"
     alt="linux logo"
   />
+  <img width="12" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+    height="40"
+    alt="spring logo"
+    />
+          
 </div>
 
 <h3 align="left">🔥 My Stats :</h3>
