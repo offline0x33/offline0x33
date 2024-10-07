@@ -121,12 +121,28 @@
     alt="linux logo"
   />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" 
+    height="40"
+    alt="linux logo"
+    />
+  <img width="12" />
   <img 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
     height="40"
     alt="spring logo"
     />
-          
+  <img width="12" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-plain.svg" 
+    height="40"
+    alt="antdesign logo"
+    />
+  <img width="12" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+    height="40"
+    alt="figma logo"
+    />
 </div>
 
 <h3 align="left">🔥 My Stats :</h3>
