@@ -14,7 +14,9 @@
   </a>
 </div>
 
-<h1 align="center">Yeah buddy 👋</h1>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1000&center=true&height=72&lines=Yeah+buddy+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 <h3 align="left">👩‍💻 About Me</h3>
 <div>
