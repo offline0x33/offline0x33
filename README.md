@@ -20,15 +20,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 <div>
   <p style="text-align: justify; font-size: 16px; line-height: 1.5">
-    I am a Full Stack developer with solid experience in PHP, JavaScript and
-    Java, passionate about creating robust and scalable web solutions. I have
-    deep knowledge in developing REST APIs and a proven track record in PHP,
-    JavaScript and Java projects. My UI/UX skills allow me to build elegant and usable interfaces, ensuring an
-    excellent user experience, demonstrating my versatility and ability to adapt
-    to different technologies. Skills in relational and non-relational
-    databases, automated testing and development best practices. I am a proactive professional with excellent communication and teamwork,
-    working throughout the entire software development cycle, from design to
-    implementation.
+    I work as a Full Stack developer and have some experience with PHP, JavaScript, and Java. I quite like developing web solutions that are reliable and can handle a good volume of accesses. I have familiarity with the creation of REST APIs and have already participated in projects using PHP, JavaScript, and Java. I also have knowledge in UI/UX, so I seek to create interfaces that are pleasant and easy to use for the user. This helps me to work with different technologies without major difficulties. I know relational and non-relational databases, I know how to apply automated tests, and I follow good development practices. I always try to be proactive, I communicate well with the team, and I like to work together, from planning to software delivery.
   </p>
 </div>
 
